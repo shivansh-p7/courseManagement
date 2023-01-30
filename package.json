@@ -1,0 +1,25 @@
+{
+  "name": "course-management",
+  "version": "1.0.0",
+  "description": "\"here one can create course and sell it\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh-p7/courseManagement.git"
+  },
+  "author": "shivansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivansh-p7/courseManagement/issues"
+  },
+  "homepage": "https://github.com/shivansh-p7/courseManagement#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "validator": "^13.7.0"
+  }
+}
